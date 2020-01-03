@@ -40,9 +40,9 @@ def naming_system
         sub_category: {
           label: PORTION_2,
           sub_category: {
-            PORTION_3,
+            label: PORTION_3,
             sub_category: {
-              PORTION_4
+              label: PORTION_4
             }
           }
         }
