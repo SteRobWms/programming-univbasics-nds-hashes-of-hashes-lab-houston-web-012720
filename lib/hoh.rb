@@ -38,7 +38,7 @@ def naming_system
       sub_category: {
         label: "Class",
         sub_category: {
-          PORTION_2,
+          label: PORTION_2,
           sub_category: {
             PORTION_3,
             sub_category: {
